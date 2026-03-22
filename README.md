@@ -21,13 +21,13 @@ To analyze customer purchasing behaviors and evaluate the commerical impact of n
 * **Performance Measurement:** Evaluated the trial period against the control group, utilizing statistical hypothesis testing to determine the significance of changes in total sales revenue and average transactions per customer.
 * **Commerical Insight:**
 * **Expanding the Layout:** Based on the significant lift in Store 77’s performance, we recommend rolling out the new ‘Chips’ category layout to all stores in the region to maximize revenue and foot traffic, expecting that close to 2 out of 3 stores will experience a similar increase in revenue and foot traffic
-<img width="959" height="561" alt="image" src="https://github.com/user-attachments/assets/f8bf41f7-bc48-4ab4-a748-ddad729042ac" />
+<img width="959" height="569" alt="image" src="https://github.com/user-attachments/assets/f8bf41f7-bc48-4ab4-a748-ddad729042ac" />
 <img width="969" height="569" alt="image" src="https://github.com/user-attachments/assets/d5447da9-6356-46da-bda6-bf09c1af42a4" />
 
 * **Targeted Marketing:**Focus promotional activity on Mainstream Young/Mid-age Singles and Couples, as they represent the highest value makeup of the Mainstream tier.
-  <img width="984" height="647" alt="image" src="https://github.com/user-attachments/assets/611d8dce-1bbc-4059-a2a8-56015bdf9e88" />
+<img width="984" height="647" alt="image" src="https://github.com/user-attachments/assets/611d8dce-1bbc-4059-a2a8-56015bdf9e88" />
 
 * **Maintain Product Variety:** Continue prioritizing the 'volume' segments (families) through multi-buy offers to maintain category loyalty.
-<img width="983" height="601" alt="image" src="https://github.com/user-attachments/assets/4467d054-888a-470b-bfcc-b0d272a47da6" />
+<img width="984" height="647" alt="image" src="https://github.com/user-attachments/assets/4467d054-888a-470b-bfcc-b0d272a47da6" />
 
 
