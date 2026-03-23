@@ -26,9 +26,9 @@ To analyze customer purchasing behaviors and evaluate the commerical impact of n
 <img width="959" height="569" alt="image" src="https://github.com/user-attachments/assets/d5447da9-6356-46da-bda6-bf09c1af42a4" />
 
 * **Targeted Marketing:** Focus promotional activity on Mainstream Young/Mid-age Singles and Couples, as they represent the highest value makeup of the Mainstream tier.
-<img width="984" height="647" alt="image" src="https://github.com/user-attachments/assets/611d8dce-1bbc-4059-a2a8-56015bdf9e88" />
+<img width="1348" height="717" alt="image" src="https://github.com/user-attachments/assets/0f68bbb9-c3fa-428b-8574-a12e138ba110" />
 
 * **Maintain Product Variety:** Continue prioritizing the 'volume' segments (families) through multi-buy offers to maintain category loyalty.
-<img width="984" height="647" alt="image" src="https://github.com/user-attachments/assets/4467d054-888a-470b-bfcc-b0d272a47da6" />
+<img width="1348" height="717" alt="image" src="https://github.com/user-attachments/assets/0b8b0cba-a1d1-4ea9-9328-3fa7bd4e6087" />
 
 
